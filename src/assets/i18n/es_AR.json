@@ -1,0 +1,14 @@
+{
+  "HEADER" : {
+    "MENU" : {
+      "MAIN" : "Principal",
+      "ABOUT" : "A Construtora",
+      "ESTATES" : "Empreendimentos",
+      "MAP" : "Empreendimentos no mapa",
+      "CONTACT" : "Contato"
+    }
+  },
+  "SLIDER" : {
+    "CHECK_PROPERTY" : "Ver Propriedade"
+  }
+}
